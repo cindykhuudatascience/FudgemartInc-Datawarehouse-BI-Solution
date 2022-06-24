@@ -1,4 +1,4 @@
-# FudgemartInc-Data- Warehouse- ETL -BI-Solution
+# FudgemartInc Data Warehouse ETL BI-Solution
 This was a final group project for the Data Warehouse class I took. We were given a case on Fudgemart Inc who had two subsidiaries. Our objective was to deliver a BI solution by creating a data warehouse and a business intelligence platform. 
 This project showcases how we applied what we learned in class. 
 
